@@ -1,0 +1,27 @@
+Distribution functions are found through the simulations of data and identifying
+patterns.
+
+The cdf and pdf notebook has the basic core distribution to help with completing
+the lab.
+
+What about the histogram:
+- problem: as you change the number of bins, the graph changes a lot
+    - so we lean towards the CDF
+note: the alpha and the beta are fighting over what kind of form the distribution
+takes
+
+the video for this week goes over random variables
+
+pareto: looking for events with large tails
+ex. consider the biggest cities, but there are other people in the population 
+in other places
+
+Doing the lab
+--------------
+the top has all the distribution and are provided in cdf and pdf
+next, there are questions for simulations, specifically the sample mean
+    then see or describe which distribution it creates
+    we are texting the Central Limit Theorem
+q1 = uniform dist 
+q2 = normal distribution
+q5 = what is the dist of smallest to largest values, what does it look like
